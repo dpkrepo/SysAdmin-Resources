@@ -104,6 +104,8 @@ foreach ($folder in $folders) {
 Write-Host "SysAdmin folder structure created at $base"
 ```
 
+## Sync the Local folder with GitHub
+
 Here's a step-by-step guide to help you initialize a GitHub repository with the folder structure and starter README.md files. You can do this locally and then push it to GitHub.
 
 ### Step 1: Create the Folder Structure Locally

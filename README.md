@@ -1,6 +1,6 @@
 # SysAdmin-Resources
 
-## This is the Entire Folder Structure 
+## This is the entire Folder Structure which is found in master branch.
 ```
 SysAdmin-Resources/
 ├── Documentation/

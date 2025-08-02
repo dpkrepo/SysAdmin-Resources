@@ -52,7 +52,10 @@ SysAdmin-Resources/
     ├── Lab-Guides/
     └── Notes/
 ```
-### How to create is entire structure using simple PowerShell Script
+### How to create above folder structure using simple PowerShell Script?
+
+Copy this script in PowerShell console
+
 ```
 $base = "C:\SysAdmin-Resources"
 
